@@ -1,0 +1,12 @@
+{
+  "domain": "yuelly",
+  "name": "Yuelly",
+  "codeowners": [
+    "@olricky"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/olricky/yuelly",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/olricky/yuelly/issues",
+  "version": "0.1.0"
+}
